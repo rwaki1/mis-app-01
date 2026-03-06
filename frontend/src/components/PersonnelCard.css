@@ -1,0 +1,54 @@
+.personnel-card {
+  background: linear-gradient(135deg, #1a2236 80%, #223a5e 100%);
+  border: 3px solid #ffd700; /* gold accent */
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(34, 58, 94, 0.18);
+  padding: 28px 22px;
+  margin: 18px 0;
+  max-width: 340px;
+  color: #ffd700; /* gold text */
+  font-family: 'Segoe UI', Arial, sans-serif;
+  transition: box-shadow 0.2s, border 0.2s;
+  position: relative;
+}
+.personnel-card:hover {
+  box-shadow: 0 8px 32px rgba(34, 58, 94, 0.28);
+  border-color: #fff700;
+}
+.card-photo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 18px;
+}
+.card-info h3 {
+  margin: 0 0 10px 0;
+  color: #ffd700;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.card-info p {
+  margin: 5px 0;
+  font-size: 1em;
+  color: #fff;
+}
+.status-badge {
+  padding: 2px 12px;
+  border-radius: 12px;
+  font-size: 0.95em;
+  color: #fff;
+  background: #007b1e;
+  margin-left: 4px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border: 1.5px solid #ffd700;
+}
+.status-badge.inactive {
+  background: #b30000;
+  border-color: #ffd700;
+}
+.no-photo {
+  background: #223a5e;
+  color: #ffd700;
+  border: 2px dashed #ffd700;
+}

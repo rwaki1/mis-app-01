@@ -1,0 +1,21 @@
+name,grade_name,status,date_of_birth,army_number,role_name,region_name,brigade_name,battalion_name,weapon_serial_number,radio_serial_number,photo
+Ange Uwizeyimana,Maj,Active,1984-02-10,AR021,Commander,North Division,Falcon Brigade,1st Battalion,WSN021,RSN021,ange21.jpg
+Patrick Niyonzima,Sergeant,Active,1986-05-14,AR022,ART,North Division,Falcon Brigade,2nd Battalion,WSN022,RSN022,patrick22.jpg
+Clarisse Mukamana,Lieutenant,Active,1988-08-19,AR023,PLT CMDT,North Division,Panther Brigade,3rd Battalion,WSN023,RSN023,clarisse23.jpg
+Jean Paul Habineza,Major,Active,1990-11-23,AR024,Infantry,North Division,Falcon Brigade,1st Battalion,WSN024,RSN024,jeanpaul24.jpg
+Solange Umutoni,Corporal,Active,1992-03-27,AR025,Finance,North Division,Falcon Brigade,2nd Battalion,WSN025,RSN025,solange25.jpg
+Eric Nshimiyimana,Capitaine,Active,1985-06-30,AR026,Engineer,North Division,Panther Brigade,3rd Battalion,WSN026,RSN026,eric26.jpg
+Marie Claire Uwase,Maj Gen,Active,1987-09-04,AR027,CO,North Division,Falcon Brigade,1st Battalion,WSN027,RSN027,marieclaire27.jpg
+Jean Claude Niyitegeka,Major,Active,1989-12-08,AR028,Logistics Officer,North Division,Falcon Brigade,2nd Battalion,WSN028,RSN028,jeanclaude28.jpg
+Josiane Uwamahoro,Sergeant,Active,1991-03-14,AR029,Medic,North Division,Panther Brigade,3rd Battalion,WSN029,RSN029,josiane29.jpg
+Alain Nkurunziza,Corporal,Active,1993-06-18,AR030,ADC,North Division,Falcon Brigade,1st Battalion,WSN030,RSN030,alain30.jpg
+Emile Rukundo,Maj,Active,1984-09-22,AR031,Commander,South Division,Lion Brigade,4th Battalion,WSN031,RSN031,emile31.jpg
+Sandrine Ingabire,Sergeant,Active,1986-12-26,AR032,ART,South Division,Lion Brigade,5th Battalion,WSN032,RSN032,sandrine32.jpg
+Jean Pierre Mugisha,Lieutenant,Active,1989-03-02,AR033,PLT CMDT,South Division,Lion Brigade,6th Battalion,WSN033,RSN033,jeanpierre33.jpg
+Chantal Mukeshimana,Major,Active,1991-06-06,AR034,Infantry,South Division,Lion Brigade,4th Battalion,WSN034,RSN034,chantal34.jpg
+Aimable Niyitegeka,Corporal,Active,1993-09-10,AR035,Finance,South Division,Lion Brigade,5th Battalion,WSN035,RSN035,aimable35.jpg
+Vestine Uwimana,Capitaine,Active,1985-12-14,AR036,Engineer,South Division,Lion Brigade,6th Battalion,WSN036,RSN036,vestine36.jpg
+Jean Baptiste Ndayisenga,Maj Gen,Active,1988-03-18,AR037,CO,South Division,Lion Brigade,4th Battalion,WSN037,RSN037,jeanbaptiste37.jpg
+Aline Mukarugira,Major,Active,1990-06-22,AR038,Logistics Officer,South Division,Lion Brigade,5th Battalion,WSN038,RSN038,aline38.jpg
+Alphonse Niyonsaba,Sergeant,Active,1992-09-26,AR039,Medic,South Division,Lion Brigade,6th Battalion,WSN039,RSN039,alphonse39.jpg
+Claudine Uwase,Corporal,Active,1994-12-30,AR040,ADC,South Division,Lion Brigade,4th Battalion,WSN040,RSN040,claudine40.jpg

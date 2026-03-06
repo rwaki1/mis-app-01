@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John Doe",
+    "grade": "Captain",
+    "status": "Active",
+    "date_of_birth": "1982-04-04",
+    "army_number": "RWE001",
+    "photo": "john_doe.jpg",
+    "role": "BG CO",
+    "region": "North Division",
+    "brigade": "Falcon Brigade",
+    "battalion": "1st Battalion",
+    "weapon_serial_number": "NA",
+    "radio_serial_number": "NA"
+  }
+]

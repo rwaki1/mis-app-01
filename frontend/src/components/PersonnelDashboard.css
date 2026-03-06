@@ -1,0 +1,24 @@
+.dashboard-container {
+    padding: 40px;
+    background-color: #3b4a3d; /* Olive drab */
+    min-height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .dashboard-container h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #e5ddc5; /* Tan */
+    border-bottom: 2px solid #6b8e23; /* Dark green border accent */
+    padding-bottom: 5px;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+    background-color: #2f3a2d; /* Dark greenish backdrop for grid */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
